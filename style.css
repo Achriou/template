@@ -1,0 +1,177 @@
+body {
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+   font-size: 14px;
+    line-height: 1.42857143;
+    color: #545454;
+    background-color: #fff;
+    margin:0;
+   
+}
+
+
+    header .container h1 {
+      
+     
+      margin-left:90px;
+       
+      
+    }
+    
+
+   header .container h1 img{
+       width:150px;
+       border-radius: 60%; 
+       cursor:pointer;
+     
+      
+
+
+    }
+       header img {
+        border-radius:60%;
+   }
+   .container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;}
+   
+    .container  {
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:space-between;
+      align-items:center;
+      padding-top: 0;
+      background-color:#e0ebe8;
+      overflow: hidden;  
+   } 
+   header .active-nav ul {
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     margin-right:150px;
+   }
+   header .active-nav ul li {
+     margin-right:40px;
+     list-style-type: none;
+   
+   }
+   header .active-nav ul li a {
+     text-decoration:none;
+     color:#45b29a;
+     font-weight:500;
+     font-size:120%;
+   }
+   .header .active-nav ul li a .active {
+     color: #21564b;
+   }
+  .masthead .title{
+     background-color:#e0ebe8;
+     padding:20px;
+     display:flex;
+     justify-content: center;
+     align-items:center;
+  }
+  .im-sean img {
+    justify-content:center;
+    
+  }
+  p {
+      font-size:1.5em;
+      color:#45b29a;
+  }
+  
+  .masthead img {
+    width:100%;
+    margin-right:40%;
+  }
+  #hi .articler {
+    display:flex;
+    justify-content:center;
+
+
+  }
+   #hi .articler img{
+    width:150px;
+    border-radius:60%;
+    margin-left:40%;
+   
+    
+  }
+   #hi .articler h3 {
+    text-align:center;
+    font-weight: bold;
+    color:#45b29a;
+    font-size:40px;
+  }
+  #hi .articler p .koko {
+    text-align:center;
+  }
+  
+  .bubbling-design-icons-vert {
+    background-image:url('url(/web/20180901170713im_/http://seanhalpin.io/assets/img/content/home/what-i-do/design-icons-vert@2x.png)')
+  }
+  article header h2 {
+    color:#45b29a;
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    margin-top:80px;
+  }
+ article header p .design{
+   color:black;
+ }
+ header h2 {
+  color:#45b29a;
+  text-align:center;
+  font-size:40px;
+  font-weight:bold;
+  margin-top:80px;
+ }
+ 
+ .pop {
+   display:flex;
+   background-color:#45b29a;
+   width:40%;
+   justify-content:space-between;
+   margin-left:24%;
+   padding:20px;
+   
+ }
+ .pop a {
+   text-decoration:none;
+   color:black;
+   font-weight:300;
+   font-size:40px;
+ }
+
+ .pop i {
+   font-size:50px;
+   color:black;
+   cursor:pointer;
+ }
+ 
+ footer {
+   background:#c5ded7;
+   padding:3em 0;
+   
+ 
+ }
+
+ footer li  {
+   list-style-type:none;
+   width:50%;
+   display:block;
+   float:left;
+   
+ }
+  footer a {
+    text-decoration:none;
+    color:#45b29a;
+    font-size:30px;
+
+  } 
+  footer p {
+    margin-top:100px;
+    text-align:center;
+  }
